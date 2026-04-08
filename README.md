@@ -14,4 +14,4 @@ Tech stack:
 - Telethon
 
 Purpose:
-- Built to automate document workflows for small businesses
+- Built to automate message forwarding for personal use
